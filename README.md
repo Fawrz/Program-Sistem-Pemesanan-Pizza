@@ -12,7 +12,7 @@ Ini adalah proyek pemrograman yang dibuat sebagai bagian dari tugas Algoritma da
 
 ## Flowchart
 File Flowchart dapat diunduh atau dilihat di sini:
-[FILE FLOWCHART](https://github.com/WahyuMiwap/Program-Menu-Pizza-ALPRO-TUGAS-1/blob/main/Flowchart.jpg)
+[FILE FLOWCHART](https://github.com/Fawrz/Program-Sistem-Pemesanan-Pizza-/blob/main/Flowchart.jpg)
 
 Berikut adalah penjelasan alur kerja program yang digambarkan melalui flowchart:
 
@@ -31,7 +31,7 @@ Berikut adalah penjelasan alur kerja program yang digambarkan melalui flowchart:
 Program ditulis dalam bahasa **Python** dan menggunakan struktur logika seperti `while loops` dan `if-else` statements untuk menangani input pengguna serta validasi data.
 
 Source code lengkap dapat diunduh atau dilihat di sini:
-[FILE SOURCE CODE](https://github.com/WahyuMiwap/Program-Menu-Pizza-ALPRO-TUGAS-1/blob/main/main.py)
+[FILE SOURCE CODE](https://github.com/Fawrz/Program-Sistem-Pemesanan-Pizza-/blob/main/main.py)
 
 ### Contoh Potongan Kode:
 ```python
